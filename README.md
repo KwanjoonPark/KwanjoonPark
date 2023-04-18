@@ -1,4 +1,4 @@
-### Hi there 👋
+## 안녕하세요! 저는 인공지능 연구원을 꿈꾸는 대학생입니다.
 
 <!--
 **KwanjoonPark/KwanjoonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
