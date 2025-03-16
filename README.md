@@ -1,4 +1,12 @@
-## 안녕하세요! 저는 인공지능 연구원을 꿈꾸는 대학생입니다.
+<html>
+   <head>
+      <title>gitHub_readMe</title>
+   </head>
+   <body>
+      <h1>전남대학교에서 소프트웨어공학을 공부하고 있는 대학생입니다.</h1>
+      <img height="200px" src="https://blog.kakaocdn.net/dn/N2tm8/btqyJ8xqWnV/lBaeSASeXmlQk9qyB2FuV0/img.jpg">
+   </body>
+</html>
 
 <!--
 **KwanjoonPark/KwanjoonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
