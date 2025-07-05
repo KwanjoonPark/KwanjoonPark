@@ -3,8 +3,8 @@
    </head>
    <body>
       <div>
-         <h1>전남대학교에서 소프트웨어공학을 공부하고 있는 대학생입니다.</h1>
-         <h2>I am a university student studying software engineering at Chonnam National University.</h2>
+         <h2>전남대학교에서 소프트웨어공학을 공부하고 있는 대학생입니다.</h1>
+         <h3>I am a university student studying software engineering at Chonnam National University.</h2>
       </div>      
 <!--       <div style="display: flex; justify-content: center;">
          <a href="https://www.jnu.ac.kr/jnumain.aspx">
