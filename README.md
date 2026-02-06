@@ -1,30 +1,76 @@
-<html>
-   <head>
-   </head>
-   <body>
-      <div>
-         <h2>전남대학교에서 소프트웨어공학을 공부하고 있는 대학생입니다.</h1>
-         <h3>I am a university student studying software engineering at Chonnam National University.</h2>
-      </div>      
-<!--       <div style="display: flex; justify-content: center;">
-         <a href="https://www.jnu.ac.kr/jnumain.aspx">
-            <img height="150px" src="https://blog.kakaocdn.net/dn/N2tm8/btqyJ8xqWnV/lBaeSASeXmlQk9qyB2FuV0/img.jpg"/>
-         </a>
-      </div> -->
-   </body>
-</html>
+Hi there, I'm Kwanjoon Park 👋
 
-<!--
-**KwanjoonPark/KwanjoonPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Robot Perception Engineer | Bridging the Sim-to-Real Gap
 
-Here are some ideas to get you started:
+I am a software engineering undergraduate and aspiring robotics researcher, passionate about giving robots the "eyes" to interact with the physical world. My primary focus is 6-DoF Pose Estimation, Synthetic Data Generation, and Secure System Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am researching at ETRI (Electronics and Telecommunications Research Institute), developing robust vision pipelines for industrial manipulation.
+
+🛠️ Tech Stack
+
+Languages
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3DPython%26logoColor%3Dwhite"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dflat-square%26logo%3Dc%252B%252B%26logoColor%3Dwhite"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite"/>
+
+Robotics & AI
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ROS 2-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dflat-square%26logo%3Dopencv%26logoColor%3Dwhite"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dflat-square%26logo%3Dpytorch%26logoColor%3Dwhite"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gazebo-orange%3Fstyle%3Dflat-square%26logo%3Dgazebo%26logoColor%3Dwhite"/>
+
+
+🔬 Key Research & Projects
+
+🤖 Robust 6-DoF Pose Estimation for Industrial Manipulation
+
+Research Intern @ ETRI Energy Intelligence Lab | Jan. 2026 - Present
+
+Developed a vision pipeline to estimate the precise 6-DoF pose of VCB (Vacuum Circuit Breaker) panels for robotic manipulation without manual labeling.
+
+Problem: Lack of 3D pose datasets for specific industrial parts and vulnerability of marker-based methods to occlusion/lighting.
+
+Solution:
+
+Designed a Synthetic Data Pipeline using Intel RealSense D455 and ArUco markers for automated Ground Truth generation.
+
+Implemented a Geometry-Aware Background Segmentation algorithm (Canny Edge + FloodFill + ConvexHull) to isolate objects from noisy industrial backgrounds.
+
+Constructed a dataset of 1,200+ images with automated labeling, enabling domain randomization experiments.
+
+Tech: Python, ROS 2, OpenCV, RealSense SDK.
+
+<!-- 여기에 데모 GIF를 넣으면 베스트입니다. 예:  -->
+
+🏆 AI-Based Solution (Project Name)
+
+1st Place (Grand Prize) @ GIST AI Hackathon | Date (e.g., Aug. 2025)
+
+Led a team to develop an AI model for [Brief description of the hackathon topic].
+
+Responsible for system architecture and deep learning model optimization.
+
+Demonstrated high accuracy and real-time performance, outperforming competitor teams.
+
+💼 Work Experience
+
+⚓ Republic of Korea Navy
+
+Software Developer (Sergeant) | Service Period
+
+Secure System Development: Developed and maintained mission-critical software within a closed-network environment, ensuring high security and reliability standards.
+
+DB Optimization: Optimized database queries for the logistics management system, improving data retrieval speed by 20%.
+
+Troubleshooting: Collaborated with officers to resolve critical system errors during naval exercises, ensuring operational continuity.
+
+📚 Education
+
+Chonnam National University (Mar. 2021 – Feb. 2027 Expected)
+
+B.S. in Software Engineering
+
+Double Major in Robotics (In-progress)
+
+GPA: 3.9 / 4.5
+
+📫 Contact Me
+
+📧 Email: parkkwanjoon@naver.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/kwanjoon-park-070291377/
