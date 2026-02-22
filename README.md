@@ -46,7 +46,7 @@
               <li>ArUco 마커 기반 PnP 알고리즘 역설계를 통한 6D Pose 데이터셋 자동화</li>
             </ul>
           </li>
-          <li><b>Tech:</b> ROS 2, OpenCV, RealSense D455, ChArUco Board</li>
+          <li><b>Tech:</b> ROS(Noetic), OpenCV, RealSense D455, ChArUco Board</li>
         </ul>
       </td>
     </tr>
